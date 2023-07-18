@@ -50,3 +50,11 @@ h3 {
     color: var(--second-color);
     font-size: 1.5em;
 }
+
+.btn-jogar {
+    padding: 8px 15px;
+    border: 0;
+    background: var(--primary-color);
+    border-radius: 5px;
+    margin-top: 1.3em;
+}
